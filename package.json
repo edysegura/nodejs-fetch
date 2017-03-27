@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-fetch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Edy Segura <edysegura@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "co": "^4.6.0",
+    "node-fetch": "^1.6.3"
+  }
+}
