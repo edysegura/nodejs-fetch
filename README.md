@@ -8,6 +8,6 @@ The [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using
 
 ## References
 
-[Hands-on: Fetch](https://www.youtube.com/watch?v=z3GOk4nOf7g)
-[Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
-[node-fetch](https://www.npmjs.com/package/node-fetch)
+- [Hands-on: Fetch](https://www.youtube.com/watch?v=z3GOk4nOf7g)
+- [Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+- [node-fetch](https://www.npmjs.com/package/node-fetch)
