@@ -8,7 +8,9 @@
     "start": "node index"
   },
   "dependencies": {
-    "co": "^4.6.0",
-    "node-fetch": "^1.6.3"
+    "co": "^4.6.0"
+  },
+  "devDependencies": {
+    "node-fetch": "^1.7.3"
   }
 }
